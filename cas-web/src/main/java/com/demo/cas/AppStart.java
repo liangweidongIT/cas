@@ -21,6 +21,7 @@ public class AppStart {
 		log.info("可以");
 		System.out.println("hello git");
 		System.out.println("update from git");
+		log.info("udate from local");
 	}
 
 }
