@@ -19,6 +19,7 @@ public class AppStart {
 		SpringApplication.run(AppStart.class);
 		log.info("程序启动！！！");
 		log.info("可以");
+		System.out.println("hello git");
 	}
 
 }
