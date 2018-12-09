@@ -24,6 +24,8 @@ public class AppStart {
 		log.info("udate from local");
 		log.info("update from git 1111111");
 		log.info("update from loca11111");
+		log.info("update from loca222222");
+		log.info("update from local3333333");
 	}
 
 }
