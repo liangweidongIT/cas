@@ -23,6 +23,7 @@ public class AppStart {
 		System.out.println("update from git");
 		log.info("udate from local");
 		log.info("update from git 1111111");
+		log.info("update from loca11111");
 	}
 
 }
