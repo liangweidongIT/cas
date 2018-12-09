@@ -28,6 +28,7 @@ public class AppStart {
 		log.info("update from local3333333");
 		log.info("update from git222222");
 		log.info("update from local_444444");
+		log.info("update from git_333333");
 	}
 
 }
