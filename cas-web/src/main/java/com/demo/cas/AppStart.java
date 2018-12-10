@@ -17,6 +17,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class AppStart {
 	public static void main(String[] args) {
 		SpringApplication.run(AppStart.class);
+		log.info("update from local_111111");
 	}
 
 }
